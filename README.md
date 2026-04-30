@@ -29,11 +29,12 @@ This project simulates a coffee machine using Python. The program allows users t
 ```text
 coffee-machine-project/
 │
-├── main.py              # Main program file
-├── README.md            # Project documentation
-├── menu.py              # Drink menu and ingredient requirements
-├── resources.py         # Machine resources and tracking
-└── requirements.txt     # Optional dependencies (if any)
+├── main.py
+├── menu.py
+├── resources.py
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
